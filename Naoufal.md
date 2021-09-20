@@ -1,8 +1,8 @@
 # Bonjour
 **hello**
 *hi*
--jus
--lait
+- jus
+- lait
 [title](https://www.example.com)
 ![alt text](image.jpg)
 
