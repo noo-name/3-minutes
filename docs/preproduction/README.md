@@ -27,9 +27,8 @@
 ## Cartographie
 > Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_exemple.PNG)
-![Exemple de cartographie 2](medias/cartographie_exemple_2.PNG)
-![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
+![Exemple de cartographie 1](medias/cartographie_1.PNG)
+![Exemple de cartographie 2](medias/cartographie_2.PNG)
 
 ## Intention de départ
 Pour ce projet, nous souhaitons démontré l'importance de prendre soin de notre planete par nos actes et nos gestes de la vie de tout les jours.
