@@ -27,8 +27,8 @@
 ## Cartographie
 > Exemples:
 
-![Exemple de cartographie 1](medias/cartographie_1.PNG)
-![Exemple de cartographie 2](medias/cartographie_2.PNG)
+![Exemple de cartographie 1](medias/cartographie_1.png)
+![Exemple de cartographie 2](medias/cartographie_2.png)
 
 ## Intention de départ
 Pour ce projet, nous souhaitons démontré l'importance de prendre soin de notre planete par nos actes et nos gestes de la vie de tout les jours.
@@ -38,10 +38,10 @@ Pour ce projet, nous souhaitons démontré l'importance de prendre soin de notre
 XXNAMEXX se réveil dans un monde parallèle du passé dans son aventure il y auras plusieurs choix qui peuvent altéré le futur actuelle en bien ou en mal mais les choix fait seront irréversible.
 
 
-
+*
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
 
-Le public est appelé à découvrir le mystère entourant cette difficile séparation.
+Le public est appelé à découvrir le mystère entourant cette difficile séparation. *
 
 ## Tableau d'ambiance (*moodboard*)
 > Ajoutez ici une liste d'images, de vidéos, de documents audios ou multimédias qui vous inspirent. Une palette de couleur ainsi qu'un choix de typographie devraient également s'y trouver selon la nature du projet.
