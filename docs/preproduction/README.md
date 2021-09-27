@@ -32,7 +32,8 @@
 ![Exemple de cartographie 3](medias/cartographie_exemple_3.PNG)
 
 ## Intention de départ
-Par ce projet, nous souhaitons exposer la grande fragilité des relations sociales et amoureuses qui traverse nos vies.
+Pour ce projet, nous souhaitons démontré l'importance de prendre soin de notre planete par nos actes et nos gestes de la vie de tout les jours.
+
 
 ## Synopsis
 Laurence et Simone demeurent ensemble et s’aiment. Un événement tragique vient bouleverser leur vie de couple. Incapable de se comprendre, ils finissent par se séparer. 
