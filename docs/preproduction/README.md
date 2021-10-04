@@ -56,7 +56,7 @@ Le public est appelé à découvrir le mystère entourant cette difficile sépar
 
 
 ## Scénario, scénarimage ou document audio/visuel
-[Exemple de scénarimage visuel pour vidéo d'animation](https://cmontmorency365.sharepoint.com/sites/TIM-58266B-Expriencemultimdiainteractive-Enseignants/Documents%20partages/Enseignants/hiv2021_expMulti_582-66BMO/4_Contenu/Modeles/scenarimage/storyboard_animation_exemple2.pdf)
+[Exemple de scénarimage visuel pour vidéo d'animation](https://drive.google.com/drive/folders/1EsV6DK3uGML3rCfvnfVxutomEO_3ko7u)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
