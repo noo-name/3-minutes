@@ -48,8 +48,8 @@ Tu es dans la cour de récréation ou tu t'amuses a jouer a plusieurs jeux diff�
 
 
 ## Scénario, scénarimage ou document audio/visuel
-[scénarimage](medias/storyboard-casier.png)
-[scénarimage](medias/storyboard-cours.png)
+![scénarimage](medias/storyboard-casier.png)
+![scénarimage](medias/storyboard-cours.png)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
