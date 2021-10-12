@@ -48,6 +48,19 @@ Tu es dans la cour de récréation ou tu t'amuses a jouer a plusieurs jeux diff�
 
 
 ## Scénario, scénarimage ou document audio/visuel
+L’utilisateur entre dans la salle, il ouvre la porte et tombe sur casque vr reposant sur un piédestal. En mettant le casque vr un jeu de ballon chasseur apparaît.
+ 
+
+Dans ce jeu tu as un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie de 3 minutes selon le résultat une animation apparaît avec le score.
+ 
+
+Dans tous les cas, l'utilisateur est invité à franchir la porte pour poursuivre l'expérience.
+ 
+
+L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans le noir, il y aurait des respirations fortes, des rires moqueurs et des bruits de métals. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
+ 
+
+À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans le deuxième.
 ![scénarimage](medias/storyboard-casier.png)
 ![scénarimage](medias/storyboard-cours.png)
 
