@@ -31,12 +31,15 @@
 ![Exemple de cartographie 2](medias/cartographie_2.png)
 
 ## Intention de départ
-Pour ce projet, nous souhaitons démontré l'importance de prendre soin de notre planete par nos actes et nos gestes de la vie de tout les jours.
+Immersion dans la peau d’une personne d’un enfant non intimidé jouant dans la cour de récréation vs dans la peau d’un enfant intimidé et enfermé dans un casier.
 
 
 ## Synopsis
-XXNAMEXX se réveil dans un monde parallèle du passé dans son aventure il y auras plusieurs choix qui peuvent altéré le futur actuelle en bien ou en mal mais les choix fait seront irréversible.
+Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 5 minutes devient un long moment interminable.
 
+
+
+Tu es dans la cour de récréation ou tu t'amuses a jouer a plusieurs jeux différents le temps passe trop rapidement.
 
 ## Tableau d'ambiance (*moodboard*)
 
@@ -45,7 +48,8 @@ XXNAMEXX se réveil dans un monde parallèle du passé dans son aventure il y au
 
 
 ## Scénario, scénarimage ou document audio/visuel
-[Document audio](https://drive.google.com/drive/folders/1EsV6DK3uGML3rCfvnfVxutomEO_3ko7u)
+[scénarimage](medias/storyboard-casier.png)
+[scénarimage](medias/storyboard-cours.png)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
