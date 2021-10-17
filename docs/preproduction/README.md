@@ -149,7 +149,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 | Contrainte ou problème potentiel                 | Solution envisagée                                    | Commentaires                                                                                 |
 |--------------------------------------------------|-------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Nous n'avons jamais utilisé la caméra 360 degrés | Formation avec TTP, expérimentation durant la session | Sinon, nous pourrions tourner avec une caméra normale et ajuster notre projet en conséquence |
+| Création du casier, instalation lumière et son (synchronisé) |Se renseigner pour la confection du casier a une créatrice de scène de théatre, Formation avec TTP, expérimentation durant la session |Avec les ressources nécéssaires nous sommes confiant que la réalisation de notre projet sera un succès. |
 |                                                  |                                                       |                                                                                              |
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
