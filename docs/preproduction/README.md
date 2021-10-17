@@ -90,44 +90,35 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
-    * 8 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 8 sorties 
-
-* Vidéo
-    * 2 projecteurs vidéo lentille standard
-    * 2 système d'acrochage
-    * 3 webcam logitech c920
+    * 6 haut-parleurs actifs de 4"
+    * 6 fils XLR 3 conducteurs de 15' (M->F)
+    * Interface audio USB disposant 6 sorties 
 
 * Lumière
-    * 4 lumière LED RGBAW DMX
-    * 4 fils XLR 3 conducteurs de 20'
+    * 2 Projecteur de lumière 
+    * 2 fils XLR 3 conducteurs de 20'
     * Console DMX
     * Interface DMX USB
 
-* Électricité
-    * 8 cordon IEC (pour l'alimentation des haut-parleurs)
-    * 2 extentions 3 fiches et 3 conducteurs 
-    * 2 multiprise
-
-* Réseau
-    * 4 fils cat6a de 15"
-    * Switch poe 5 ports
-
-* Ordinateur
-    * 1 ordinateur portable 
+* Réalité virtuelle 
+    * 1 Casque de réalité virtuelle Oculus Quest 1
+    * 2 Manettes Oculus 
     
-* Autre
-    * Tout autre élément pertinant
+* Téléphone
+    * 1 téléphone cellulaire 
+
+* Ordinateur 
+    * 1 Ordinateur 
+    
 
 ## Logiciels requis
 > Liste des logiciels requis, version ainsi que leurs dépendences
 
-* [nodeJS 14.15.4 LTS](https://nodejs.org/en/) 
-    * [node-osc](https://github.com/MylesBorins/node-osc)
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
-* [Open stage control](https://openstagecontrol.ammd.net/)
+* [Reaoer 3.67](https://www.reaper.fm/)
+* [Adobe Photoshop 22.5.1](https://www.reaper.fm/)
+* [Maya](https://www.autodesk.ca/fr/products/maya/overview?term=1-YEAR&tab=subscription)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
