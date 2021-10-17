@@ -139,11 +139,10 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Projection vidéo dans le cyclo
-    * Capatation vidéo
+    * Grand studio divisé en deux (casier d'un côté et jeu dans l'autre)
 
 * Petit studio
-    * Enregsitrement audio 
+    * Enregistrement audio
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
