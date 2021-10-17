@@ -31,7 +31,9 @@
 ![Exemple de cartographie 2](medias/cartographie_2.png)
 
 ## Intention de départ
-Immersion dans la peau d’une personne d’un enfant non intimidé jouant dans la cour de récréation vs dans la peau d’un enfant intimidé et enfermé dans un casier.
+Immersion dans la peau d’une personne d’un enfant non intimidé jouant dans la cour de récréation vs dans la peau d’un enfant intimidé et enfermé dans un casier. 
+Ce projet, fait vivre a l'utilisateur un sentiments d'impuissance et détresse. Ce qui as pour but de faire comprendre l'importance de ne pas laisser une personne seul dans ce genre de situation. Ainsi, l'utilisateur resent de l'empathie a l'égard des personnes intimidés.
+
 
 
 ## Synopsis
