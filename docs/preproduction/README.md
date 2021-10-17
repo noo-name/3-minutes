@@ -83,8 +83,8 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Faux Casier crée en coroplaste, carton renforcé, 2 hauts-parleurs et une chaise.
-* rideau noir 
-* fausse porte 
+* Rideau noir 
+* Fausse porte 
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -143,7 +143,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
     * Capatation vidéo
 
 * Petit studio
-    * Enregsitrement audio
+    * Enregsitrement audio 
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
