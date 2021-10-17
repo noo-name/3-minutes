@@ -82,10 +82,9 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Divan Louis XIV
-    * Couleur rouge
-    * 12' x 4' x 3'
-* Cyclorama
+* Faux Casier crée en coroplaste, carton renforcé, 2 hauts-parleurs et une chaise.
+* rideau noir 
+* fausse porte 
 
 ## Équipements requis
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
@@ -134,8 +133,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Personne X, performeuse
-* Etc.
+* Voix féminine ou Masculine (ADOLESCENT)
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
