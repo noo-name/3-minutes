@@ -65,6 +65,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans le deuxième.
 ![scénarimage](medias/storyboard-casier.png)
 ![scénarimage](medias/storyboard-cours.png)
+![scénarimage](medias/storyboard-cours2.png)
 
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
@@ -147,7 +148,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget.png)
 
-[Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
+
 
 
 ## Échéancier global
