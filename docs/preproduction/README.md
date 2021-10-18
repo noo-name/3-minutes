@@ -145,7 +145,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
-![Budget prévisionnel](medias/budget_capture_20210113.PNG)
+![Budget prévisionnel](medias/budget.png)
 
 [Lien vers document](https://cmontmorency365.sharepoint.com/:x:/s/TIM-58266B-Expriencemultimdiainteractive-Enseignants/ERS3zx4iKAlLn03N_0h3cyQBOV_nxNuKvrKnqmrXGcgDYg?e=Rjq9Uc)
 
