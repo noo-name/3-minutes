@@ -31,6 +31,7 @@
 ![Exemple de cartographie 2](medias/cartographie_2.png)
 
 ## Intention de départ
+À travers le temps, sensibiliser la personne à l'intimidation en lui faissant passer du bon temps, suivi par du mauvais temps.
 Immersion dans la peau d’une personne d’un enfant non intimidé jouant dans la cour de récréation vs dans la peau d’un enfant intimidé et enfermé dans un casier. 
 Ce projet, fait vivre a l'utilisateur un sentiments d'impuissance et détresse. Ce qui as pour but de faire comprendre l'importance de ne pas laisser une personne seul dans ce genre de situation. Ainsi, l'utilisateur resent de l'empathie a l'égard des personnes intimidés.
 
