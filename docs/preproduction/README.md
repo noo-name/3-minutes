@@ -83,8 +83,8 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Faux Casier crée en coroplaste, carton renforcé, 2 hauts-parleurs et une chaise.
-* Rideau noir 
+* Faux casier crée en coroplaste, carton renforcé, 2 hauts-parleurs et une chaise.
+* Rideaux noirs
 * Fausse porte 
 
 ## Équipements requis
@@ -96,20 +96,20 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
     * Interface audio USB disposant 6 sorties 
 
 * Lumière
-    * 2 Projecteur de lumière 
+    * 2 projecteur de lumière 
     * 2 fils XLR 3 conducteurs de 20'
     * Console DMX
     * Interface DMX USB
 
 * Réalité virtuelle 
-    * 1 Casque de réalité virtuelle Oculus Quest 1
-    * 2 Manettes Oculus 
+    * 1 casque de réalité virtuelle Oculus Quest 1
+    * 2 manettes Oculus 
     
 * Téléphone
     * 1 téléphone cellulaire 
 
 * Ordinateur 
-    * 1 Ordinateur 
+    * 1 ordinateur 
     
 
 ## Logiciels requis
@@ -117,21 +117,21 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 * [Max 8](https://cycling74.com/products/max)   
 * [Unity 2019 lts](https://unity.com/)
-* [Reaoer 3.67](https://www.reaper.fm/)
-* [Adobe Photoshop 22.5.1](https://www.reaper.fm/)
+* [Reaper 3.67](https://www.reaper.fm/)
+* [Adobe Photoshop 22.5.1](https://www.adobe.com/)
 * [Maya](https://www.autodesk.ca/fr/products/maya/overview?term=1-YEAR&tab=subscription)
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Voix féminine ou Masculine (ADOLESCENT)
+* Voix féminine ou masculine (adolescent)
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Grand studio divisé en deux (casier d'un côté et jeu dans l'autre)
+    * Grand studio divisé en deux (casier d'un côté et jeu de l'autre)
 
 * Petit studio
     * Enregistrement audio
@@ -226,4 +226,4 @@ Hebdomadaire
 - **Chaque mardi de (11h a 13h)** : Rencontre de suivi de projet.
 
 Autre: 
-- **Si le projet demande plus de temps notre horraire sera révisé** : Rencontre de suivi de projet.
+- **Si le projet demande plus de temps notre horaire sera révisé** : Rencontre de suivi de projet.
