@@ -74,7 +74,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 ### Plantation 
 
-![exemple de plantation](medias/o3_plantation.svg)
+![exemple de plantation](medias/plantation.png)
 
 ### Schéma de branchement 
 
