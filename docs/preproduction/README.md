@@ -110,7 +110,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
     * 1 téléphone cellulaire 
 
 * Ordinateur 
-    * 1 ordinateur 
+    * 2 ordinateurs 
     
 
 ## Logiciels requis
