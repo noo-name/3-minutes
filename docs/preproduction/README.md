@@ -110,7 +110,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
     * 1 téléphone cellulaire 
 
 * Ordinateur 
-    * 2 ordinateurs 
+    * 1 ordinateur 
     
 
 ## Logiciels requis
@@ -171,53 +171,46 @@ https://github.com/tim-montmorency/66B-modele_de_projet/issues
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
 
-**Tout le monde**
+Jérémie 
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création du module d'interprétation des données;
-- Programmation du module Max de contrôle vidéo.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Tout le monde**
-- Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores sonores;
-- Programmation du module Max d'effet et de contrôle audio;
-- Installation de l'équipement dans l'espace physique.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**Tout le monde**
-- Installation et mise en place de la capture audiovidéo du projet en temps réel;
-- Programmation du module de captation des données;
-- Programmation du module de diffusion et d'interaction en ligne (page Web, diffusion vidéo dans Twitch via OBS, interface utilisateur dans Open Stage Control).
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
-
-**Tout le monde**
-- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
-- Création des textes poétiques;
-- Création des vidéos d'animation 2D;
-- Programmation du module Unity d'effets visuels et intégration dans Max.
-
-Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
-**Tout le monde**
-- Création des images;
+- Création des paysages sonores;
 - Création des icônes de navigation;
-- Programmation du module Max d'éclairage;
-- Programmation du module Max de contrôle de la navigation utilisateur & des différents sous-modules.
+- Modélisation 3D des objets pour le jeu Unity;
+- Création du casier;
+- Création des porte-clés;
+- Création du jeu dans Unity;
+
 
 Liste des tâches dans Git Hub:  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
 https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+
+Naoufal 
+- Comité Technique et coordination technique (suivi du devis technique);
+- Création des paysages sonores;
+- Installation de l'équipement dans l'espace physique;
+- Gestion des lumières/éclairages;
+- Modélisation 3D des objets pour le jeu Unity;
+- Création du jeu dans Unity;
+
+Liste des tâches dans Git Hub:  
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+
+
+Samuel
+- Coordination artistique (attention plus particulière pour s'assurer que l'intention/concept artistique du projet initial reste, sinon consulter les membres de l'équipe);
+- Création du texte de fin;
+- Création d'animations 3D;
+- Création des effets sonores;
+- Création des textures;
+- Programmation du module Unity d'effets visuels;
+- Création du jeu dans Unity;
+
+Liste des tâches dans Git Hub:  
+https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
+https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+
 
 **Tâches pas encore attribuées**  
 https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
