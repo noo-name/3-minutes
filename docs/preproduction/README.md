@@ -94,7 +94,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 * Audio
     * 6 haut-parleurs actifs de 4"
     * 6 fils XLR 3 conducteurs de 15' (M->F)
-    * Interface audio USB disposant 6 sorties 
+    * 2 Interface audio USB disposant 4 sorties 
 
 * Lumière
     * 2 projecteur de lumière 
@@ -110,7 +110,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
     * 1 téléphone cellulaire 
 
 * Ordinateur 
-    * 1 ordinateur 
+    * 2 ordinateur 
     
 
 ## Logiciels requis
