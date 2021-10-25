@@ -154,7 +154,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 ## Échéancier global
 Étapes importantes du projet visualisé dans GitHub (*milestones*):  
-https://github.com/tim-montmorency/66B-modele_de_projet/milestones
+https://github.com/noo-name/temporel/milestones
 
 *Dates importantes :*
 - Première itération : lundi x novembre
