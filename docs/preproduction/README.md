@@ -78,7 +78,7 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 
 ### Schéma de branchement 
 
-![exemple de schema](docs/preproduction/medias/g.drawio(1).png)
+![exemple de schema](docs/preproduction/medias/plan.png)
 
 ## Matériel de scénographie requis
 
