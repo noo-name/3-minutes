@@ -163,10 +163,10 @@ https://github.com/tim-montmorency/66B-modele_de_projet/milestones
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?add_cards_query=is%3Aopen
+https://github.com/noo-name/temporel/projects/1
 
 Inventaire des tâches à réaliser dans GitHub selon le répertoire d'*issues*:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues
+https://github.com/noo-name/temporel/issues
 
 ## Rôles et responsabilités des membres de l'équipe
 > Il vous est proposé ici de nommer une personne à la coordination générale du projet, à la coordination technique et à la coordination artistique. Les grandes décisions sur les grandes orientations du projet devraient se prendre en groupe lors de rencontres d'équipe. Cependant, les décisions entre vos rencontres de groupe devraient appartenir à ces personnes.
@@ -182,8 +182,7 @@ Jérémie
 
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/DarylMomo  
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Adarylmomo
+https://github.com/noo-name/temporel/issues?q=assignee%3AjeremieLevesque+is%3Aopen
 
 Naoufal 
 - Comité Technique et coordination technique (suivi du devis technique);
@@ -194,8 +193,7 @@ Naoufal
 - Création du jeu dans Unity;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
+https://github.com/noo-name/temporel/issues?q=assignee%3ANaoufalBen+is%3Aopen
 
 
 Samuel
@@ -208,12 +206,10 @@ Samuel
 - Création du jeu dans Unity;
 
 Liste des tâches dans Git Hub:  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues/assigned/gllmAR
-https://github.com/tim-montmorency/66B-modele_de_projet/projects/2?card_filter_query=assignee%3Agllmar
-
+https://github.com/noo-name/temporel/issues?q=assignee%3ASamuelPoulin1+is%3Aopen
 
 **Tâches pas encore attribuées**  
-https://github.com/tim-montmorency/66B-modele_de_projet/issues?q=is%3Aopen+is%3Aissue+no%3Aassignee
+https://github.com/noo-name/temporel/issues?q=is%3Aopen+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
