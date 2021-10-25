@@ -94,23 +94,23 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 * Audio
     * 6 haut-parleurs actifs de 4"
     * 6 fils XLR 3 conducteurs de 15' (M->F)
-    * 2 Interface audio USB disposant 4 sorties 
+    * 2 interfaces audio USB disposant 4 sorties 
 
 * Lumière
-    * 2 projecteur de lumière 
+    * 2 projecteurs de lumière
     * 2 fils XLR 3 conducteurs de 20'
     * Console DMX
     * Interface DMX USB
 
-* Réalité virtuelle 
+* Réalité virtuelle
     * 1 casque de réalité virtuelle Oculus Quest 1
-    * 2 manettes Oculus 
+    * 2 manettes Oculus
     
 * Téléphone
-    * 1 téléphone cellulaire 
+    * 1 téléphone cellulaire
 
-* Ordinateur 
-    * 2 ordinateur 
+* Ordinateur
+    * 2 ordinateurs
     
 
 ## Logiciels requis
