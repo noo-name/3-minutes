@@ -70,16 +70,16 @@ L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans 
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 ## VR
-Menu de départ et de fin
-Trame sonore surround
-Texte de départ et de fin
-Jeu de réalité virtuelle
-Model 3D crée dans maya
-Modules multimedias (Kinect, contrôle d'éclairage, Ellipsoidal Spot et Jeu de réalité virtuelle)
+* Menu de départ et de fin
+* Trame sonore surround
+* Texte de départ et de fin
+* Jeu de réalité virtuelle
+* Model 3D crée dans maya
+* Modules multimedias (Kinect, contrôle d'éclairage, Ellipsoidal Spot et Jeu de réalité virtuelle)
 ## Casier
-Trame sonore Surround
-Capteur lorsque la porte s'ouvre
-Modules multimedias (effets audio, contrôle d'éclairage et Ellipsoidal Spot)
+* Trame sonore Surround
+* Capteur lorsque la porte s'ouvre
+* Modules multimedias (effets audio, contrôle d'éclairage et Ellipsoidal Spot)
 ## Univers artistique des éléments
 # Planification technique d'un prototype (devis technique)
 ## Schémas ou plans techniques
