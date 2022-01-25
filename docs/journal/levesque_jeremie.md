@@ -1,5 +1,5 @@
 # Journal de "Jérémie Lévesque"
-![portrait du participant ]![272188022_341209317880173_5929406360964934032_n](https://user-images.githubusercontent.com/70386087/151039570-ea781b3a-4c62-475e-8191-f2d0226d6667.jpg)
+[272188022_341209317880173_5929406360964934032_n](https://user-images.githubusercontent.com/70386087/151039570-ea781b3a-4c62-475e-8191-f2d0226d6667.jpg)
 
 
 * [Semaine 1](#semaine-1)
