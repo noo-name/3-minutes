@@ -1,5 +1,5 @@
 # Journal de Samuel Poulin
-![portrait du participant ](../web/medias/participants/image_samuel.jpg)
+![portrait du participant ](../web/medias/participants/image_samuel.JPG)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
