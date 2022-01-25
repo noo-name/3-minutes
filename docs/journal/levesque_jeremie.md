@@ -16,8 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - Commencer le jeu vr 
-- mettre le site web en ligne 
-
+- commencement du journal
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
