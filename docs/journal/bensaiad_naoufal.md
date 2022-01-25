@@ -1,5 +1,5 @@
-# Journal de "Participant 3"
-![portrait du participant ](../web/medias/participants/C.png)
+# Journal de "Naoufal Bensaiad"
+![portrait du participant ](../web/medias/participants/A.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
