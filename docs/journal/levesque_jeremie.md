@@ -1,5 +1,5 @@
 # Journal de "Jérémie Lévesque"
-![portrait du participant ](../web/medias/participants/[jeremie.jpg])
+![portrait du participant ](../web/medias/participants/jeremie.jpg)
 
 
 * [Semaine 1](#semaine-1)
