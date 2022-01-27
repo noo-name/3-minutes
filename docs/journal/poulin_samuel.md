@@ -15,34 +15,30 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Début du projet.
-
-### Image d'une réalisation dont tu es la ou le plus fier
+- Début du journal.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
-- [x] Peu
+- [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi. 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
+- J'ai bien commencé mon journal.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
-- [x] Assez
+- [x] Complètement
+- [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 ### Défis pour la prochaine semaine
+- Création de la musique pour le jeu VR.
 
 ---
+
 ## Semaine 2
 ### Résumé des réalisations effectuées
 
