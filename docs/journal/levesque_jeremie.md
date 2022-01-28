@@ -16,14 +16,16 @@
 ## Semaine 1
 
 ### Résumé des réalisations effectuées
-- Commencer le jeu vr 
-- commencement du journal
+- Commencer le journal
+- Choisir le nom en francais
+- parler de ce qu'ont va faire les prochaines semaines
+
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -32,23 +34,23 @@
 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+x
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+x
 
 ### Défis pour la prochaine semaine
-
-
+- commencer le jeu vr
+- acheter les composant pour le casier
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
@@ -61,7 +63,7 @@
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
