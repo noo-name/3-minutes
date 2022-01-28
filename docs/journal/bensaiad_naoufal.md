@@ -16,7 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - Commencer le journal
-- Débuter la deuxième partie de jeu Vr
+- Débuter la deuxième partie de jeu Vr (Timer et ajout de modèles 3d)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
