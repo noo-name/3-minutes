@@ -54,6 +54,7 @@ x
 ### Défis pour la prochaine semaine
 - commencer le jeu vr
 - acheter les composant pour le casier
+- 
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
