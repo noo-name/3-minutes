@@ -17,8 +17,11 @@
 
 ### Résumé des réalisations effectuées
 - Commencer le journal
-- Choisir le nom en francais
+- Choisir le nom en francais (trois minutes)
 - parler de ce qu'ont va faire les prochaines semaines
+- finaliser la préproduction
+- rencontre pour de nouveau model 3d (panier de basket, mains et souliers)
+- commencer la deuxième partie du jeu vr
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
