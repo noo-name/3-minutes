@@ -1,11 +1,6 @@
 # Journal de création
 
-## Semaine 9
-> Contenu personnalisé à remplir par les équipes à chaque semaine faisant part du processus de création: résumé des réalisations d'équipe effectuées et des défis rencontrés sous forme d'un texte; ajout de vidéos, images, documents audios ou de contenu multimédia.)
-
-
-Cette semaine a été parsemée de défis.
-![défis](medias/exemple_general.jpg)
+## Semaine 1
 
 Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
 ![exemple photoshop](medias/exemple_photoshop.jpg)
@@ -36,9 +31,3 @@ On a bien hâte de voir le projet se concrétiser davantage dans les lieux physi
 ## Semaine 2
 
 ## Semaine 1
-
-
-
-
-
-
