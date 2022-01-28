@@ -19,7 +19,7 @@
 - Débuter la deuxième partie de jeu Vr (Timer et ajout de modèles 3d)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Funity.com%2Fproducts%2Funity-visual-scripting&psig=AOvVaw3QIN0qcjuaNpAc9ZK9PInq&ust=1643465915010000&source=images&cd=vfe&ved=0CAsQjRxqGAoTCMC8sZbS1PUCFQAAAAAdAAAAABCgAQ">
+ 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [ ] Complètement
 - [x] Assez
@@ -46,7 +46,7 @@ Nous avons eu des problèmes avec le casier
 Demander au profs ou une reunion d'equipe
 
 ### Défis pour la prochaine semaine
-S'avancer le plpus possible dans le jeu vr
+S'avancer le plus possible dans le jeu vr et terminer le timer de 3 min
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
