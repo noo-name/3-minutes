@@ -2,10 +2,9 @@
 
 ## Semaine 1
 
-Tout d’abord, comme prévu, nous avons terminé de créer nos images dans Photoshop et le contenu 3D dans Maya. Nous avons également avancé la programmation multimédia du projet dans le logiciel Max et Unity.
-![exemple photoshop](medias/exemple_photoshop.jpg)
+Tout d’abord, comme prévu, nous avons commencé nos journaux individuels. Puis, nous avons trouvé le nom de notre projet en français après un brainstorm de noms. Il sera finalement appelé "3 minutes", car les deux parties du projet dure trois minutes.
 
-Par la suite, nous avions prévu une séance d’enregistrement audio dans les studios de son. Cependant, misère (!), une panne d’électricité a eu lieu durant notre séance! Nous avons donc dû remettre celle-ci à quelques jours plus tard. (Nous avons beaucoup ri de cette situation.)
+Samuel a trouvé des inspirations pour la musique du jeu VR et a commencé à explorer le site Internet BeepBox. Ce dernier permet de créer de la musique facilement et sans logiciel supplémentaire. Très pratique pour un débutant! Samuel est maintenant en train de créer cette musique dans BeepBox.
 
 ![Enregistrement en studio](medias/exemple_studio1.jpg)
 
