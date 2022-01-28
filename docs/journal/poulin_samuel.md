@@ -16,6 +16,7 @@
 
 ### Résumé des réalisations effectuées
 - Début du journal.
+- Nous avons trouvé le nom du projet en français.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
 - [x] Complètement
