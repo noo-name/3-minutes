@@ -6,15 +6,6 @@ Tout d’abord, comme prévu, nous avons commencé nos journaux individuels. Pui
 
 Samuel a trouvé des inspirations pour la musique du jeu VR et a commencé à explorer le site Internet BeepBox. Ce dernier permet de créer de la musique facilement et sans logiciel supplémentaire. Très pratique pour un débutant! Samuel est maintenant en train de créer cette musique dans BeepBox.
 
-![Enregistrement en studio](medias/exemple_studio1.jpg)
-
-Enfin, nous venons de commencer à mettre en espace le projet dans le grand studio du collège. Nos projecteurs viennent tout juste d’être installés! 
-![Projecteurs installés](medias/exemple_projector.jpg)
-
-On a bien hâte de voir le projet se concrétiser davantage dans les lieux physiques. À suivre
-
-
-
 ## Semaine 8
 
 ## Semaine 7
