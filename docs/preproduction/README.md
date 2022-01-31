@@ -51,19 +51,19 @@ Tu es dans la cour de récréation ou tu t'amuses a jouer a plusieurs jeux diff�
 
 
 ## Scénario, scénarimage ou document audio/visuel
-L’utilisateur entre dans la salle, il ouvre la porte et tombe sur casque vr reposant sur un piédestal. En mettant le casque vr un jeu de ballon chasseur apparaît.
+Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur.
  
 
-Dans ce jeu tu as un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie de 3 minutes selon le résultat une animation apparaît avec le score.
+Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie de 3 minutes selon le résultat obtenue il y aura un message pour féliciter le joueur.
  
 
-Dans tous les cas, l'utilisateur est invité à franchir la porte pour poursuivre l'expérience.
+Lorsque le délai de trois minutes est écoulé un message apparaît pour dire d’enlever le casque et se diriger vers l’autre activité de l’expérience.
+
+Arriver dans la zone prédéfinie par un autre capteur Kinect une deuxième lumière allumée pour laisser place à un casier, une pancarte sera à proximité de celui-ci  pour expliquer qu’il faut rentrer dans le casier pour poursuivre l’expérience. L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans le noir, l’ambiance sonore du gymnase sera transposé dans le casier. il y aura des respirations fortes, des rires moqueurs, des bruits ballon, grincement de soulier et de chaîne de basket. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
  
 
-L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans le noir, il y aurait des respirations fortes, des rires moqueurs et des bruits de métals. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
- 
+À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans la deuxième partie.
 
-À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans le deuxième.
 ![scénarimage](medias/storyboard-casier.png)
 ![scénarimage](medias/storyboard-cours.png)
 ![scénarimage](medias/storyboard-cours2.png)
