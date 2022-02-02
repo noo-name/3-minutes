@@ -38,7 +38,7 @@ Ce projet, fait vivre a l'utilisateur un sentiments d'impuissance et détresse. 
 
 
 ## Synopsis
-Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 5 minutes devient un long moment interminable.
+Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable.
 
 
 
