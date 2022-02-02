@@ -32,17 +32,19 @@
 
 ## Intention de départ
 À travers le temps, sensibiliser la personne à l'intimidation en lui faissant passer du bon temps, suivi par du mauvais temps.
-Immersion dans la peau d’une personne ne vivant aucune intimidation, jouant dansun gymnase au ballon chasseur vs dans la peau d’un enfant intimidé et enfermé dans un casier. 
+Immersion dans la peau d’une personne ne vivant aucune intimidation, jouant dans un gymnase au ballon chasseur vs dans la peau d’un enfant intimidé et enfermé dans un casier. 
 Ce projet, fait vivre a l'utilisateur un sentiments d'impuissance et détresse. Ce qui as pour but de faire comprendre l'importance de ne pas laisser une personne seul dans ce genre de situation. Ainsi, l'utilisateur resent de l'empathie a l'égard des personnes intimidés.
 
 
 
 ## Synopsis
+
+Tu arrive dans une gymnase et tu joue au ballon chasseur tu t'amuse a toucher le plus de personne possible avec le ballon et après le compteur de trois minutes le jeu s'arrête.
+
 Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable.
 
 
 
-Tu es dans la cour de récréation ou tu t'amuses a jouer a plusieurs jeux différents le temps passe trop rapidement.
 
 ## Tableau d'ambiance (*moodboard*)
 
