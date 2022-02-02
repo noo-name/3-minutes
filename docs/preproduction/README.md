@@ -166,7 +166,7 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 # Planification de la production d'un prototype (budget et étapes de réalisation)
 ## Budget prévisionnel
 ![Budget prévisionnel](medias/budget.png)
-
+Prix réel = tuyaux pvc 3po = 63.77$
 
 
 
@@ -231,7 +231,7 @@ https://github.com/noo-name/temporel/issues?q=is%3Aopen+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Chaque mardi de (11h a 13h)** : Rencontre de suivi de projet.
+- **Chaque lundi de 10h a 12h : Rencontre de suivi de projet.
 
 Autre: 
 - **Si le projet demande plus de temps notre horaire sera révisé** : Rencontre de suivi de projet.
