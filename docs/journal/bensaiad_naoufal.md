@@ -56,7 +56,7 @@ S'avancer le plus possible dans le jeu vr et terminer le timer de 3 min
 - Ajout de photos pour le moodboard de l'ambience du casier 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image d'une réalisation ](../journal/medias/radio.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
