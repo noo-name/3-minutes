@@ -52,7 +52,8 @@ S'avancer le plus possible dans le jeu vr et terminer le timer de 3 min
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+- Modélisation sans textures de la grande fenetre, petite fenetre et de la radio 
+- Ajout de photos pour le moodboard de l'ambience du casier 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -61,31 +62,31 @@ S'avancer le plus possible dans le jeu vr et terminer le timer de 3 min
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Je me suis avancé dans la modélisation d'objets pour le jeu vr mais je suis bloqué pour la programmation du timer de 3 minutes
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais demander de l'aide aux profs 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+La programmation du timer prends plus de temps que prévue
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Je vais demander de l'aide aux profs 
 
 ### Défis pour la prochaine semaine
-
+Terminer la timer et mettre de la texture sur les objets modélisés et les ajouter dans la scene vr
 
 ---
 ## Semaine 3 
