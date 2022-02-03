@@ -1,5 +1,5 @@
 # Journal de "Naoufal Bensaiad"
-![portrait du participant ](../web/medias/participants/A.png)
+![portrait du participant ](../web/medias/participants/naoufal.png)
 
 * [Semaine 1](#semaine-1)
 * [Semaine 2](#semaine-2)
