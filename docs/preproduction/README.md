@@ -24,6 +24,7 @@
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
 # Intention ou concept
+Sensibilisée a l'intimidation et démontrer que le temps n'est pas le même selon la situation vécu.
 ## Cartographie
 > Exemples:
 
@@ -53,7 +54,7 @@ Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette anné
 
 
 ## Scénario, scénarimage ou document audio/visuel
-Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur.
+Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur. (fkjdkfs)(fsfs)
  
 
 Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie de 3 minutes selon le résultat obtenue il y aura un message pour féliciter le joueur.
@@ -193,12 +194,12 @@ https://github.com/noo-name/temporel/issues
 
 Jérémie 
 - Coordination générale du projet (coordination de l'échéancier, du budget, suivi de la liste des tâches à réaliser, s'assurer de la répartition du rôle et des responsabilités des membres de l'équipe);
-- Création des paysages sonores;
 - Création des icônes de navigation;
-- Modélisation 3D des objets pour le jeu Unity;
-- Création du casier;
+- Modélisation 3D des objets pour le jeu Unity; Casier, Panneau basket, gymnase
+- Création de la structure du casier;
 - Création des porte-clés;
-- Création du jeu dans Unity;
+- Intégration des objets fbx dans la scène unity
+
 
 
 Liste des tâches dans Git Hub:  
@@ -206,11 +207,11 @@ https://github.com/noo-name/temporel/issues?q=assignee%3AjeremieLevesque+is%3Aop
 
 Naoufal 
 - Comité Technique et coordination technique (suivi du devis technique);
-- Création des paysages sonores;
 - Installation de l'équipement dans l'espace physique;
 - Gestion des lumières/éclairages;
-- Modélisation 3D des objets pour le jeu Unity;
+- Modélisation 3D des objets pour le jeu Unity; Fenêtre intérieur, Ballon, Radio
 - Création du jeu dans Unity;
+- 
 
 Liste des tâches dans Git Hub:  
 https://github.com/noo-name/temporel/issues?q=assignee%3ANaoufalBen+is%3Aopen
@@ -222,8 +223,9 @@ Samuel
 - Création d'animations 3D;
 - Création des effets sonores;
 - Création des textures;
-- Programmation du module Unity d'effets visuels;
+- Programmation du module Unity d'effets visuels; Porte, Banc
 - Création du jeu dans Unity;
+- -Création trame sonore
 
 Liste des tâches dans Git Hub:  
 https://github.com/noo-name/temporel/issues?q=assignee%3ASamuelPoulin1+is%3Aopen
@@ -233,7 +235,7 @@ https://github.com/noo-name/temporel/issues?q=is%3Aopen+no%3Aassignee
 
 ## Moments des rencontres d'équipe
 Hebdomadaire
-- **Chaque lundi de 10h a 12h : Rencontre de suivi de projet.
+- **Chaque jours 15 minutes : Rencontre de suivi de projet.
 
 Autre: 
 - **Si le projet demande plus de temps notre horaire sera révisé** : Rencontre de suivi de projet.
