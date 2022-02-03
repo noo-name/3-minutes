@@ -53,7 +53,7 @@ S'avancer le plus possible dans le jeu vr et terminer le timer de 3 min
 ## Semaine 2
 ### Résumé des réalisations effectuées
 - Modélisation sans textures de la grande fenetre, petite fenetre et de la radio 
-- Ajout de photos pour le moodboard de l'ambience du casier 
+- Ajout de photos pour le moodboard de l'ambience du casier et du jeu vr
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![Image d'une réalisation ](../journal/medias/radio.PNG)
