@@ -66,7 +66,14 @@ Lorsque le délai de trois minutes est écoulé un message apparaît: Bravo vous
 Arriver dans la zone prédéfinie par un autre capteur Kinect une deuxième lumière allumée pour laisser place à un casier, une pancarte sera à proximité de celui-ci  pour expliquer qu’il faut rentrer dans le casier pour poursuivre l’expérience. L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans le noir, l’ambiance sonore du gymnase sera transposé dans le casier. il y aura des respirations fortes, des rires moqueurs, des bruits ballon, grincement de soulier et de chaîne de basket. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
  
 
-À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans la deuxième partie.
+À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans la deuxième partie. 
+
+Texte de fin : 
+Vous venez de vivre quelques instants dans la peau d’un enfant intimidé et vous avez également passer du temps dans la peau d’un enfant heureux et épanoui.La deuxième partie du projet vous as semblé plus longue ? C'était exactement le même temps écoulé. 
+Cette expérience a pour but de sensibiliser sur les actes de l’intimidation à travers le temps. NON À L'INTIMIDATION 
+Tel-jeune :  514-288-2266 
+Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents
+Québec: 418-529-3446;
 
 ![scénarimage](medias/storyboard-casier.png)
 ![scénarimage](medias/storyboard-cours.png)
