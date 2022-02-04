@@ -128,7 +128,7 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 
 ### Schéma de branchement 
 
-![exemple de schema](medias/plan.png)
+![exemple de schema](medias/schema-branchement.png)
 
 ## Matériel de scénographie requis
 
