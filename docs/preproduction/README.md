@@ -52,6 +52,7 @@ Solitude
 ![solitudemoodboard](https://user-images.githubusercontent.com/70386087/152572481-2be9cdbd-0056-4af4-ad1d-a37b4c760844.png)
 
 ![ambiancesonorejeuvr](https://user-images.githubusercontent.com/70386087/152575731-150cde4f-414d-4b05-abf6-faa3b9e067d5.png)
+![Ambiance casier](https://user-images.githubusercontent.com/70386087/152578769-17117687-1747-4e20-8e37-c4307d07415a.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
