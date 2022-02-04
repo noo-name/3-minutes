@@ -48,9 +48,9 @@ Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette anné
 
 
 ## Tableau d'ambiance (*moodboard*)
+Solitude
+![solitudemoodboard](https://user-images.githubusercontent.com/70386087/152572481-2be9cdbd-0056-4af4-ad1d-a37b4c760844.png)
 
-![moodboard](medias/moodboard-1.png)
-![moodboard](medias/moodboard-2.png)
 
 
 ## Scénario, scénarimage ou document audio/visuel
