@@ -10,13 +10,18 @@ Naoufal a commencé la proggrammation du timer de 3 minutes du jeu. On a brainst
 
 ## Semaine 2
 -Achat de matériaux pour la structure du casier
+-Assemblage de la structure
 -Continuation de la préproduction
 -Création model 3d
 -Début de la création des sons pour le jeu de réalité virtuel
 
-ACHAT DE MATÉRIAUX POUR LA STRUCTURE DU CASIER :
+ACHAT DE MATÉRIAUX POUR LA STRUCTURE DU CASIER : Naoufal et Jérémie
 
 ![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/70386087/152455872-f831b477-57c0-41ea-8920-85e6eb50d017.png)
+
+ASSEMBLAGE DE LA STRUCTURE : Jérémie
+![montage casier](https://user-images.githubusercontent.com/70386087/152456711-936a8b10-4dd8-4f97-b278-e3f5c9960f52.png)
+
 
 ## Semaine 3
 ## Semaine 4
