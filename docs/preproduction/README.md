@@ -50,7 +50,7 @@ Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette anné
 ## Tableau d'ambiance (*moodboard*)
 Solitude
 ![solitudemoodboard](https://user-images.githubusercontent.com/70386087/152572481-2be9cdbd-0056-4af4-ad1d-a37b4c760844.png)
-Ambiance sonore jeu vr
+
 ![ambiancesonorejeuvr](https://user-images.githubusercontent.com/70386087/152575731-150cde4f-414d-4b05-abf6-faa3b9e067d5.png)
 
 
