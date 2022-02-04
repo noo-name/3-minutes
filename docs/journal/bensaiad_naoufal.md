@@ -1,4 +1,4 @@
-# Journal de "Naoufal Bensaiad"
+# Journal de Naoufal Bensaiad
 ![portrait du participant ](../web/medias/participants/naoufal.jpg)
 
 
