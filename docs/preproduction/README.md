@@ -55,7 +55,7 @@ Solitude
 
 
 ## Scénario, scénarimage ou document audio/visuel
-Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: « Le but du jeu est de casser le plus de cible à l'aide des balles en 3 minutes. Pour vous déplacer utiliser le manche de la manette de gauche. Pour prendre les balles utiliser les gachettes des deux manettes et pour les lancer relacher les gachettes. » ;
+Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: « Le but du jeu est de casser le plus de cible à l'aide des balles en 3 minutes. Pour vous déplacer utiliser le manche de la manette de gauche. Pour prendre les balles utiliser les gachettes des deux manettes et pour les lancer relacher les gachettes. » ; L'ambience sonore dans le menu et le jeu est entrainant pour donner de l'énergie à l'utlisateur. 
  
 
 Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie. Il y a aussi des objets que nous pouvons intéragir dans la scène selon le résultat obtenue il y aura un message pour féliciter le joueur.
