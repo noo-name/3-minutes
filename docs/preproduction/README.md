@@ -56,6 +56,8 @@ Solitude
 
 ![ambiancesonorejeuvr](https://user-images.githubusercontent.com/70386087/152575731-150cde4f-414d-4b05-abf6-faa3b9e067d5.png)
 ![ambiancesoncasier](https://user-images.githubusercontent.com/70386087/152578989-b34a6b23-1a6b-4385-becd-a407d6234658.png)
+![menuinspiration](https://user-images.githubusercontent.com/70386087/152581834-96bdfa86-e6fe-4a67-b1a2-c437356de376.png)
+
 
 Liste son jeu vr 
 - son de radio :
