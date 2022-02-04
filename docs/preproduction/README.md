@@ -57,13 +57,13 @@ Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette anné
 Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: Le but du jeu est de casser le plus de cible à l'aide des balles en 3 minutes. Pour vous déplacer utiliser le manche de la manette de gauche. Pour prendre les balles utiliser les gachettes des deux manettes et pour les lancer relacher les gachettes.  ;
  
 
-Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie de 3 minutes selon le résultat obtenue il y aura un message pour féliciter le joueur.
+Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie. Il y a aussi des objets que nous pouvons intéragir dans la scène selon le résultat obtenue il y aura un message pour féliciter le joueur.
 
-Certain éléments sont réactifs aux intéractions de l'utilisateur( casier et radio). 
+
 
 Lorsque le délai de trois minutes est écoulé un message apparaît: Bravo vous avez xx cibles cassées ; pour dire d’enlever le casque et se diriger vers l’autre activité de l’expérience.
 
-Arriver dans la zone prédéfinie par un autre capteur Kinect une deuxième lumière allumée pour laisser place à un casier, une pancarte sera à proximité de celui-ci  pour expliquer qu’il faut rentrer dans le casier pour poursuivre l’expérience. L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans le noir, l’ambiance sonore du gymnase sera transposé dans le casier. il y aura des respirations fortes, des rires moqueurs, des bruits ballon, grincement de soulier et de chaîne de basket. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
+Lors de la deuxième activité de l'expérience nous arrivons dans un couloir exigüe et sombre une échelle est dans le couloir ce qui rétrécie l'espace axentuant la claustrophobie de l'utilisateur. Arriver dans la zone prédéfinie un capteur Kinect allume une deuxième lumière pour laisser place à un casier, une pancarte sera à proximité de celui-ci  pour expliquer qu’il faut rentrer dans le casier pour poursuivre l’expérience. L’utilisateur ouvre la porte pour s'enfermé dans le casier pour une durée de 3 minutes. L'ors de la fermeture de la porte un capteur aimenté activera l'expérience qui est plongé dans le noir, la suppresion d'un sens augumente les autres. L'utilisateur resentira l’ambiance sonore du gymnase qui sera transposé dans le casier. il y aura des respirations fortes, des rires moqueurs, des bruits ballon, grincement de soulier et de chaîne de basket. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
  
 
 À la fin de l'expérience, une voix explique que la deuxième expérience vous met dans la peau d’une victime d'intimidation coincée dans un casier. Elle explique que même si les deux expériences ont duré le même temps, mentallement le temps semblait plus lent dans la deuxième partie. 
