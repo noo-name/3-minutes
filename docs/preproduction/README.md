@@ -57,6 +57,21 @@ Solitude
 ![ambiancesonorejeuvr](https://user-images.githubusercontent.com/70386087/152575731-150cde4f-414d-4b05-abf6-faa3b9e067d5.png)
 ![ambiancesoncasier](https://user-images.githubusercontent.com/70386087/152578989-b34a6b23-1a6b-4385-becd-a407d6234658.png)
 
+Liste son jeu vr 
+- son de radio :
+- grincement soulier :
+- panier de basket :
+- impact ballon sol :
+- impact ballon mannequin :
+- impact ballon casier :
+- impact ballon mur :
+
+Liste son casier 
+- respiration forte :
+- pensée négative :
+- pleur :
+- cri :
+- rire moqueur :
 
 
 ## Scénario, scénarimage ou document audio/visuel
