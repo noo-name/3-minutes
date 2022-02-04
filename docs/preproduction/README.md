@@ -23,7 +23,7 @@
     - [Rôles et responsabilités des membres de l'équipe](#Rôles-et-responsabilités-des-membres-de-l'équipe))
     - [Moments des rencontres d'équipe](#Moments-des-rencontres-d'équipe)
 
-# Intention ou concept
+# Intention
 Sensibilisée a l'intimidation et démontrer que le temps n'est pas le même selon la situation vécu.
 ## Cartographie
 > Exemples:
