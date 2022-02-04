@@ -143,7 +143,8 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 8 haut-parleurs actifs de 4"
+    * 4 haut-parleurs actifs de 4"
+    * 4 haut-parleurs actifs de 2"
     * 8 fils XLR 3 conducteurs de 15' (M->F)
     * 2 interfaces audio USB disposant 4 sorties 
 
