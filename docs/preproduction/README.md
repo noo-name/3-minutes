@@ -125,7 +125,7 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 
 ### Plantation 
 
-![exemple de plantation](medias/plantation.png)
+![exemple de plantation](medias/plantation2.drawio.png)
 
 ### Schéma de branchement 
 
