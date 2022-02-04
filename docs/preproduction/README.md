@@ -61,7 +61,7 @@ Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut 
 
 Certain éléments sont réactifs aux intéractions de l'utilisateur( casier et radio). 
 
-Lorsque le délai de trois minutes est écoulé un message apparaît pour dire d’enlever le casque et se diriger vers l’autre activité de l’expérience.
+Lorsque le délai de trois minutes est écoulé un message apparaît: Bravo vous avez xx cibles cassées ; pour dire d’enlever le casque et se diriger vers l’autre activité de l’expérience.
 
 Arriver dans la zone prédéfinie par un autre capteur Kinect une deuxième lumière allumée pour laisser place à un casier, une pancarte sera à proximité de celui-ci  pour expliquer qu’il faut rentrer dans le casier pour poursuivre l’expérience. L’utilisateur sera enfermé dans un casier pour une durée de 3 minutes. Dans le noir, l’ambiance sonore du gymnase sera transposé dans le casier. il y aura des respirations fortes, des rires moqueurs, des bruits ballon, grincement de soulier et de chaîne de basket. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
  
