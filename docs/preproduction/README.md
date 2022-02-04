@@ -113,8 +113,8 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 > Liste des équipements requis par département ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
 * Audio
-    * 6 haut-parleurs actifs de 4"
-    * 6 fils XLR 3 conducteurs de 15' (M->F)
+    * 8 haut-parleurs actifs de 4"
+    * 8 fils XLR 3 conducteurs de 15' (M->F)
     * 2 interfaces audio USB disposant 4 sorties 
 
 * Lumière
@@ -127,9 +127,6 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
     * 1 casque de réalité virtuelle Oculus Quest 1
     * 2 manettes Oculus
     
-* Téléphone
-    * 1 téléphone cellulaire
-
 * Ordinateur
     * 2 ordinateurs
     
@@ -147,16 +144,15 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 > Formaté en liste ou en lien vers un tableur Excel.
 
 * TTP, location de matériel
-* Voix féminine ou masculine (adolescent)
 
 ## Ressources spatiales requises (rangement et locaux)
 > Spécifications des espaces nécessaires formaté en liste ou lien vers un tableur Excel.
 
 * Grand studio
-    * Grand studio divisé en deux (casier d'un côté et jeu de l'autre)
+    * Partie ou il y a l'échelle dans le grand studio
 
 * Petit studio
-    * Enregistrement audio
+    * Enregistrement audio (son métal, son casier)
 
 ## Contraintes techniques et potentiels problèmes de production
 > Tableau ou lien vers un tableur Excel (contraintes, problème et solution envisagée, commentaires...)
