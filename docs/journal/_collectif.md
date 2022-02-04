@@ -13,6 +13,7 @@ Naoufal a commencé la proggrammation du timer de 3 minutes du jeu. On a brainst
 -Assemblage de la structure
 -Continuation de la préproduction
 -Création model 3d
+-Création du Logo
 -Début de la création des sons pour le jeu de réalité virtuel
 
 ACHAT DE MATÉRIAUX POUR LA STRUCTURE DU CASIER : Naoufal et Jérémie
@@ -25,6 +26,8 @@ ASSEMBLAGE DE LA STRUCTURE : Jérémie
 CRÉATION MODEL 3D : Naoufal, Jérémie et Samuel
 ![MODEL3DSEMAINE2](https://user-images.githubusercontent.com/70386087/152457529-fa0d4614-c1cd-4c54-ad2b-1c1044524384.png)
 
+CRÉATION DU LOGO : Jérémie
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/70386087/152457679-89031277-962a-40f1-a033-38f49878eb16.png)
 
 
 ## Semaine 3
