@@ -69,7 +69,8 @@
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
--
+- Peaufiner l'ambiance sonore du casier dans Reaper.
+- Enregistrer des sons/trouver des sons pour l'ambiance sonore du casier.
 
 ---
 ## Semaine 3 
