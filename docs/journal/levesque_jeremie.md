@@ -48,12 +48,20 @@ J'ai relativement bien accompli l'ensemble des tâches et objectifs que je m'ét
 - acheter les composant pour le casier
 - Optimiser le montage et démontage de la structure
 - création d'un panier de basket pour la scène du jeu de réalité virtuel
+- Retravailler le scènario
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
-
+-Les composants de la structure du casier sont acheté
+- J'ai effectuer des test pour trouvé la meilleur manière facon de démonté et remonté la structure en sécurité 
+- J'ai crée un panier de basket en 3d pour la scène (vr)
+- Le scénario a été retravailler
+- Asisté au rencontre prévue pour le projet
+- Finaliser la préproduction
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/70386087/152451499-61d533c5-0b8d-489a-8631-103f48aca3fb.png)
+![MicrosoftTeams-image (4)](https://user-images.githubusercontent.com/70386087/152451518-69f4f94c-5a62-49ae-9d33-b4bbc76ba99b.png)
 
 
 
@@ -65,26 +73,20 @@ J'ai relativement bien accompli l'ensemble des tâches et objectifs que je m'ét
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ La seul partie qui prend plus de temps que prévue est la préproduction car nous voulons avoir la perfection donc il y a quelques difficulté.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Continuer d'avancer et trouver de nouvelle solution a nos problème
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+-Effectuer des test dans le grand studio avec la structure du casier
+- Se mettre a 115% sur le jeu vr
 
 ---
 ## Semaine 3 
