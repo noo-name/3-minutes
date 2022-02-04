@@ -48,6 +48,9 @@ Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette anné
 
 
 ## Tableau d'ambiance (*moodboard*)
+Joie
+![joie](https://user-images.githubusercontent.com/70386087/152579985-b8e163f2-b0af-49c1-9309-aef1f7f52555.png)
+
 Solitude
 ![solitudemoodboard](https://user-images.githubusercontent.com/70386087/152572481-2be9cdbd-0056-4af4-ad1d-a37b4c760844.png)
 
