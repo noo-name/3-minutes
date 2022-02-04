@@ -19,12 +19,12 @@
 - Commencer le journal
 - Choisir le nom en francais (trois minutes)
 - parler de ce qu'ont va faire les prochaines semaines
-- finaliser la préproduction
 - rencontre pour de nouveau model 3d (panier de basket, mains et souliers)
-- commencer la deuxième partie du jeu vr
+- Création du logo de l'experience
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![MicrosoftTeams-image (1)](https://user-images.githubusercontent.com/70386087/152450856-89ba5b14-5d0d-483e-ac9f-79312b0491b7.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?	
@@ -34,10 +34,8 @@
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+J'ai relativement bien accompli l'ensemble des tâches et objectifs que je m'étais fixés nous avons beaucoup discuter et continuer la préproduction du projet.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-x
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
@@ -45,16 +43,10 @@ x
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-x
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-x
-
 ### Défis pour la prochaine semaine
-- commencer le jeu vr
+- Finaliser la préproduction
 - acheter les composant pour le casier
-- 
+- Optimiser le montage et démontage de la structure
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
