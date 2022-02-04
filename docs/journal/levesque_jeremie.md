@@ -47,6 +47,7 @@ J'ai relativement bien accompli l'ensemble des tâches et objectifs que je m'ét
 - Finaliser la préproduction
 - acheter les composant pour le casier
 - Optimiser le montage et démontage de la structure
+- création d'un panier de basket pour la scène du jeu de réalité virtuel
 ---
 ## Semaine 2
 ### Résumé des réalisations effectuées
