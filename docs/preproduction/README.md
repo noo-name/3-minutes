@@ -59,21 +59,21 @@ Solitude
 ![menuinspiration](https://user-images.githubusercontent.com/70386087/152581834-96bdfa86-e6fe-4a67-b1a2-c437356de376.png)
 
 
-Liste son jeu vr 
-- son de radio :
-- grincement soulier :
-- panier de basket :
-- impact ballon sol :
-- impact ballon mannequin :
-- impact ballon casier :
-- impact ballon mur :
+Liste des sons pour le jeu VR 
+- Sons de radio : (https://youtu.be/QlmTdaeukqc)
+- Grincements de souliers : (https://lasonotheque.org/detail-0938-grincements-basket.html)
+- Panier de basket : (https://youtu.be/tc3uR9AkmRs)
+- Impact ballon sol : (https://youtu.be/Glsu6VTAXTU)
+- Impact ballon mannequin : (https://www.soundsnap.com/rubber_ball_1_wav)
+- Impact ballon casier : (https://lasonotheque.org/detail-2360-grincement-barriere-metallique-fermeture-3.html)
+- Impact ballon mur : (https://www.soundsnap.com/rubber_ball_1_wav)
 
-Liste son casier 
-- respiration forte :
-- pensée négative :
-- pleur :
-- cri :
-- rire moqueur :
+Liste des sons pour l'ambiance sonore du casier 
+- Respirations fortes : (https://lasonotheque.org/detail-1103-respiration-homme-essouffle.html)
+- Pensées négatives : (https://youtu.be/ps86oJn5LhM)
+- Pleurs : (https://www.fesliyanstudios.com/play-mp3/7047)
+- Cris : (https://youtu.be/MEmnSqDQocQ)
+- Rires moqueurs : (https://sounds-mp3.com/i-en-children-laugh)
 
 
 ## Scénario, scénarimage ou document audio/visuel
