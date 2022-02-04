@@ -70,7 +70,6 @@ Liste des sons pour le jeu VR
 
 Liste des sons pour l'ambiance sonore du casier 
 - Respirations fortes : (https://lasonotheque.org/detail-1103-respiration-homme-essouffle.html)
-- Pensées négatives : (https://youtu.be/ps86oJn5LhM)
 - Pleurs : (https://www.fesliyanstudios.com/play-mp3/7047)
 - Cris : (https://youtu.be/MEmnSqDQocQ)
 - Rires moqueurs : (https://sounds-mp3.com/i-en-children-laugh)
