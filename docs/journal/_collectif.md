@@ -15,7 +15,7 @@ Naoufal a commencé la proggrammation du timer de 3 minutes du jeu. On a brainst
 -Début de la création des sons pour le jeu de réalité virtuel
 
 ACHAT DE MATÉRIAUX POUR LA STRUCTURE DU CASIER :
-![MicrosoftTeams-image (5)](https://user-images.githubusercontent.com/70386087/152455864-e96d58e5-7aa9-4fe6-a32c-f5f5cac52373.png)
+
 ![MicrosoftTeams-image (6)](https://user-images.githubusercontent.com/70386087/152455872-f831b477-57c0-41ea-8920-85e6eb50d017.png)
 
 ## Semaine 3
