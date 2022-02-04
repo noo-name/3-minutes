@@ -22,6 +22,10 @@ ACHAT DE MATÉRIAUX POUR LA STRUCTURE DU CASIER : Naoufal et Jérémie
 ASSEMBLAGE DE LA STRUCTURE : Jérémie
 ![montage casier](https://user-images.githubusercontent.com/70386087/152456711-936a8b10-4dd8-4f97-b278-e3f5c9960f52.png)
 
+CRÉATION MODEL 3D : Naoufal, Jérémie et Samuel
+![MODEL3DSEMAINE2](https://user-images.githubusercontent.com/70386087/152457529-fa0d4614-c1cd-4c54-ad2b-1c1044524384.png)
+
+
 
 ## Semaine 3
 ## Semaine 4
