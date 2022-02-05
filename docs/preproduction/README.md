@@ -76,22 +76,22 @@ Liste des sons pour l'ambiance sonore du casier
 
 
 ## Scénario, scénarimage ou document audio/visuel
-Lorsque l'utilisateur entre dans la salle il y un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: « Le but du jeu est de casser le plus de cible à l'aide des balles en 3 minutes. Pour vous déplacer utiliser le manche de la manette de gauche. Pour prendre les balles utiliser les gachettes des deux manettes et pour les lancer relacher les gachettes. » ; L'ambience sonore dans le menu et le jeu est entrainant pour donner de l'énergie à l'utlisateur. 
+Lorsque l'utilisateur entre dans la salle, il y a un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque, une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: « Le but du jeu est de casser le plus de cibles à l'aide des balles en 3 minutes. Pour vous déplacer, utiliser le manche de la manette gauche. Pour prendre les balles, utiliser les gâchettes des deux manettes et pour les lancers relâcher les gâchettes. » L'ambiance sonore dans le menu et le jeu est entrainante pour donner de l'énergie à l'utilisateur. 
  
 
-Dans ce jeu il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cible possible dans le temps impartie. Il y a aussi des objets que nous pouvons intéragir dans la scène. Selon le résultat obtenue il y aura un message pour féliciter le joueur.
+Dans ce jeu, il y a un nombre infini de ballons pour toucher les cibles, il faut toucher le plus de cibles possible dans le temps imparties. Il y a aussi des objets avec lesquels nous pouvons interagir dans la scène. Selon le résultat obtenu, il y aura un message pour féliciter le joueur.
 
 
 
-Lorsque le délai de trois minutes est écoulé un message apparaît: Bravo vous avez xx cibles cassées ; pour dire d’enlever le casque et se diriger vers l’autre activité de l’expérience.
+Lorsque le délai de trois minutes est écoulé, un message apparaît: « Bravo, vous avez cassé xx cibles », pour indiquer qu'il faut enlever le casque et se diriger vers l’autre partie de l’expérience.
 
-Lors de la deuxième activité de l'expérience nous arrivons dans un couloir exigüe et sombre une échelle est dans le couloir ce qui rétrécie l'espace axentuant la claustrophobie de l'utilisateur. Arriver dans la zone prédéfinie un capteur Kinect allume une deuxième lumière pour laisser place à un casier, une pancarte sera à proximité de celui-ci  pour expliquer qu’il faut rentrer dans le casier pour poursuivre l’expérience. L’utilisateur ouvre la porte pour s'enfermé dans le casier pour une durée de 3 minutes. L'ors de la fermeture de la porte un capteur aimenté activera l'expérience qui est plongé dans le noir, la suppresion d'un sens augumente les autres. L'utilisateur resentira l’ambiance sonore du gymnase (ballon qui rebondit, des rires moqueurs, cris d'enfants,  grincements de souliers et bruits de chaînes de basket ) qui sera transposé à l'extérieure à casier. À l'intérieure du casier il y aura des respirations fortes, pensées négatives, pleurs, cris et bruits de métals comme si quelqu'un voulait sortir du casier. Le tout pour rendre mal à l' aise l’utilisateur afin d’avoir une expérience plus immersive.
+Lors de la deuxième activité de l'expérience, nous arrivons dans un couloir exigu et sombre. Une échelle est dans le couloir ce qui rétrécit l'espace accentuant la claustrophobie de l'utilisateur. Arrivé dans la zone prédéfinie, un capteur Kinect allume une deuxième lumière pour laisser place à un casier. Une pancarte sera à proximité de celui-ci pour expliquer qu’il faut entrer dans le casier pour poursuivre l’expérience. L’utilisateur ouvre la porte pour s'enfermer dans le casier pour une durée de 3 minutes. Lors de la fermeture de la porte, un capteur aimanté activera l'expérience qui est plongée dans le noir, la suppression d'un sens augmente les autres. L'utilisateur ressentira l’ambiance sonore du gymnase (ballon qui rebondit, rires moqueurs, cris d'enfants,  grincements de souliers et bruits de chaînes de basket) qui sera transposé à l'extérieur du casier. À l'intérieur du casier, il y aura des respirations fortes, des pensées négatives, des pleurs, des cris et des bruits de métal comme si quelqu'un voulait sortir du casier. Le tout pour rendre mal à l'aise l’utilisateur afin d’avoir une expérience plus immersive.
  
 
-À la fin de l'expérience, un message de fin sera projecté sur le mur le plus proche du casier.
+À la fin de l'expérience, un message de fin sera projeté sur le mur le plus proche du casier.
 
 Texte de fin : 
-Vous venez de vivre quelques instants dans la peau d’un enfant coincée dans un casier. et vous avez également passer du temps dans la peau d’un enfant heureux et épanoui.La deuxième partie du projet vous as semblé plus longue ? C'était exactement le même temps écoulé. 
+Vous venez de vivre quelques instants dans la peau d’un enfant coincée dans un casier. Vous avez également passé du temps dans la peau d’un enfant heureux et épanoui. La deuxième partie de l'expérience vous a semblé plus longue? C'était exactement le même temps écoulé. 
 Cette expérience a pour but de sensibiliser sur les actes de l’intimidation à travers le temps. NON À L'INTIMIDATION 
 Tel-jeune :  514-288-2266 
 Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents
