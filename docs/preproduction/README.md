@@ -42,7 +42,7 @@ Ce projet, fait vivre a l'utilisateur un sentiments d'impuissance et détresse. 
 
 Tu arrive dans une gymnase et tu joue au ballon chasseur tu t'amuse a toucher le plus de personne possible avec le ballon et après le compteur de trois minutes le jeu s'arrête.
 
-Tu es enfermé dans un casier sombre et glacial pour la 89 ème fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable.
+Tu es enfermé dans un casier sombre et glacial pour une énième fois cette année le temps te paraît une éternité des rires moqueurs, ta respiration devient de plus en plus insupportable, l'angoisse commence à prendre le dessus 3 minutes devient un long moment interminable.
 
 
 
