@@ -99,9 +99,6 @@ Tel-jeune :  514-288-2266
 Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents
 Québec: 418-529-3446;
 
-![scénarimage](medias/storyboard-casier.png)
-![scénarimage](medias/storyboard-cours.png)
-![scénarimage](medias/storyboard-cours2.png)
 # Contenu multimédia à intégrer
 ## Inventaire du contenu multimédia
 ## VR
