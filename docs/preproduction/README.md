@@ -76,6 +76,8 @@ Liste des sons pour l'ambiance sonore du casier
 
 
 ## Scénario, scénarimage ou document audio/visuel
+![storyboard-vue-devant](https://user-images.githubusercontent.com/70386087/153016634-0aee015a-0f6f-4779-bc4c-264f6072be72.png)
+
 Lorsque l'utilisateur entre dans la salle, il y a un capteur de type Kinect qui détecte la présence et ouvre une lumière pointant sur un casque de réalité virtuelle placé sur une table. En mettant le casque, une page de règlement et d’explication apparaît et explique les directives à suivre pour le jeu de ballon chasseur: « Le but du jeu est de casser le plus de cibles à l'aide des balles en 3 minutes. Pour vous déplacer, utiliser le manche de la manette gauche. Pour prendre les balles, utiliser les gâchettes des deux manettes et pour les lancers relâcher les gâchettes. » L'ambiance sonore dans le menu et le jeu est entrainante pour donner de l'énergie à l'utilisateur. 
  
 
