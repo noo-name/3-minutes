@@ -134,7 +134,7 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 
 > Liste des matériaux de scénographie (matériaux de décor) requis ou lien vers un tableur Excel ou document Markdown à part si nécessaire (quantité, spécifications techniques, lien vers fiche technique si applicable, commentaires...)
 
-* Faux casier crée en coroplaste, carton renforcé, 2 hauts-parleurs et une chaise.
+* Faux casier crée en coroplaste et carton renforcé.
 * Rideaux noirs
 * Fausse porte 
 
