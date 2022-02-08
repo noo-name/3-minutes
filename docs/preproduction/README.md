@@ -169,6 +169,7 @@ https://www.google.ca/search?q=jeu+de+cible+vr&hl=fr&sxsrf=AOaemvLRObMse42gEqFIR
 * [Reaper 3.67](https://www.reaper.fm/)
 * [Adobe Photoshop 22.5.1](https://www.adobe.com/)
 * [Maya](https://www.autodesk.ca/fr/products/maya/overview?term=1-YEAR&tab=subscription)
+* [QLC+](https://www.qlcplus.org/) 
 
 ## Ressources humaines requises
 > Formaté en liste ou en lien vers un tableur Excel.
