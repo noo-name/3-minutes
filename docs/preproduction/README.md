@@ -205,8 +205,6 @@ Prix réel = tuyaux pvc 3po = 63.77$
 https://github.com/noo-name/temporel/milestones
 
 *Dates importantes :*
-- Première itération : lundi x novembre
-- Prototype finale : lundi x décembre
 - Préproduction : mercredi le 9 février 2022
 - Visite des 1er années : mercredi 23 février 2022
 - Présentation des projets devant public : jeudi 25 mars 2022 (soir)
