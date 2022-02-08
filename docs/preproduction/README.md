@@ -206,7 +206,9 @@ https://github.com/noo-name/temporel/milestones
 *Dates importantes :*
 - Première itération : lundi x novembre
 - Prototype finale : lundi x décembre
-- Présentation des projets devant public : jeudi 25 mars (soir)
+- Préproduction : mercredi le 9 février 2022
+- Visite des 1er années : mercredi 23 février 2022
+- Présentation des projets devant public : jeudi 25 mars 2022 (soir)
 
 ## Liste des tâches à réaliser
 Visualisation des tâches à réaliser dans GitHub selon la méthode Kanban:  
