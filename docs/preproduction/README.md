@@ -100,6 +100,7 @@ Groupe d’Aide aux Personnes Impulsives, ayant des comportements violents
 Québec: 418-529-3446;
 
 # Contenu multimédia à intégrer
+Inventaire : https://docs.google.com/spreadsheets/d/1ipuyrViEACR8rMVUPP9WSaQT7Z1PnTPBLp28KX1Z79U/edit#gid=0
 ## Inventaire du contenu multimédia
 ## VR
 * Menu de départ et de fin
