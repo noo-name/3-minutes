@@ -75,7 +75,9 @@
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Correction de fautes d'orthographe dans la préproduction.
+- Création de la musique du menu pour le jeu VR.
+- Création de l'inventaire de contenu multimédia (avec Jérémie).
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
