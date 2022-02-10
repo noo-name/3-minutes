@@ -78,36 +78,29 @@
 - Correction de fautes d'orthographe dans la préproduction.
 - Création de la musique du menu pour le jeu VR.
 - Création de l'inventaire de contenu multimédia (avec Jérémie).
+- Modéliastion en 3D d'une échelle de gymnase.
+- Création des textures pour les portes de gymnase.
+- Création des textures pour l'échelle.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![ici est une description de l'image](medias/musique_menu_beepbox.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
 - [ ] Assez
-- [ ] Peu
+- [x] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ Nous avons décidé de faire les sons plus tard et finir le jeu VR avant de commencer à aller plus loin dans le son.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 
