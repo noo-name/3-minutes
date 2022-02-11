@@ -31,6 +31,18 @@ CRÉATION DU LOGO : Jérémie
 
 
 ## Semaine 3
+Location du matériel que nous avons de besoin pour la création du projet:
+![MicrosoftTeams-image (12)](https://user-images.githubusercontent.com/70386087/153534922-d3ded03a-b22e-42f8-815d-13a4278b177d.png)
+![MicrosoftTeams-image (14)](https://user-images.githubusercontent.com/70386087/153535123-08f4042c-f35d-40af-beaa-cc520d1b4541.png)
+Création des textures de certain objets 3d
+![image](https://user-images.githubusercontent.com/70386087/153535220-cf9a92e6-c15f-4830-aeea-db05ef81909b.png)
+![image](https://user-images.githubusercontent.com/70386087/153535261-1b7436e6-4484-4cbd-be00-bc5d3216a69b.png)
+![image](https://user-images.githubusercontent.com/70386087/153535297-ad6058f9-56c9-49ce-af21-70b4cc89123a.png)
+Correction des bugg relier au casque vr dans unity
+![MicrosoftTeams-image (15)](https://user-images.githubusercontent.com/70386087/153535736-bb11a79f-2bc6-47c8-8ac2-7cfd26474e4f.png)
+Renforcement de la structure en pvc 
+![MicrosoftTeams-image (11)](https://user-images.githubusercontent.com/70386087/153535789-4c9b1291-3a99-4d1d-a1c1-b12f7afd91c6.png)
+
 ## Semaine 4
 ## Semaine 5
 ## Semaine 6
