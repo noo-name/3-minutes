@@ -91,40 +91,48 @@ Continuer d'avancer et trouver de nouvelle solution a nos problème
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Renforcement de la structure
+- Réglement de bugg Oculus / Unity
+- Participation Comité Technique
+- Finalisation Préprod
+- Installation Lumière Élipsoidal dans le grand studio
+- Installer les textures sur mes models 3d
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![MicrosoftTeams-image (11)](https://user-images.githubusercontent.com/70386087/153534407-f9d8a2e0-8c1a-4585-8d7a-59d7a0c9c8ec.png)
 
+![MicrosoftTeams-image (12)](https://user-images.githubusercontent.com/70386087/153534553-219546d9-026b-4438-8298-33035ac13367.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons avancer beaucoup le jeu vr et régler les buggs les plus importants cependant je n'est pas pu faire autant de teste que je voulais dans le grand studio
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Lundi prochain apporté la structure pour faire les tests
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Il n'y a pas vraiment d'écarts nous sommes a jours
 
 ### Défis pour la prochaine semaine
-
+ - Empporter la structure au collège 
+ - Acheter les paneau de coroplaste 
+ - Continuer le jeu vr
+ - Tester les hauts-parleurs
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
