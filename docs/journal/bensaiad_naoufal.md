@@ -86,12 +86,16 @@ La programmation du timer prends plus de temps que prévue
 Je vais demander de l'aide aux profs 
 
 ### Défis pour la prochaine semaine
-Terminer la timer et mettre de la texture sur les objets modélisés et les ajouter dans la scene vr
+Terminer la pré-production et mettre de la texture sur les objets modélisés et les ajouter dans la scene vr
 
 ---
 ## Semaine 3 
 ### Résumé des réalisations effectuées
-
+- Création des textures pour la grande et petite fenetre 
+- Création des textures pour la radio
+- Finalisation du scénario (texte de fin et page de réglements)
+- Finalisation Planification technique d'un prototype (devis technique)
+- Installation des gros speakers dans le placard (avec jérémie)
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -100,19 +104,19 @@ Terminer la timer et mettre de la texture sur les objets modélisés et les ajou
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons fini la pré-production et la textures des objets modélisés mais nous les avons pas encore mit dans la scene Vr
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Mettre les modéles dans la scene Vr
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -124,7 +128,7 @@ Terminer la timer et mettre de la texture sur les objets modélisés et les ajou
 
 
 ### Défis pour la prochaine semaine
-
+S'avancer le plus possible dans le jeu Vr et programmer le timer de 3 minutes
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
