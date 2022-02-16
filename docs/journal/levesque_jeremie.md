@@ -140,37 +140,38 @@ Il n'y a pas vraiment d'écarts nous sommes a jours
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![image](https://user-images.githubusercontent.com/70386087/154156679-dbf31eea-dd5b-416a-a3c7-7d148bcbf585.png)
+![MicrosoftTeams-image (19)](https://user-images.githubusercontent.com/70386087/154323412-ceda7e80-0b08-42ae-84eb-fcb2d97f2f35.png)
+
 
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ - Emporter la structure au collège (FAIT)
+ - Acheter les panneaux de coroplaste (FAIT)
+ - Continuer le jeu vr (FAIT)
+ - Tester les hauts-parleurs (PAS FAIT MAIS INSTALLER)
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+ - revenir cette semaine pour effectuer les tests de son 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [X] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
+- [ ] 
 ### Défis pour la prochaine semaine
-
+- Enregistrement des son principals (Bruit Métal , Ballon, pleurs)
+- Apporté un carton pour faire le tôit
+- Création de la porte du casier
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
