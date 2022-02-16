@@ -167,7 +167,7 @@ Il n'y a pas vraiment d'écarts nous sommes a jours
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-- [ ] 
+
 ### Défis pour la prochaine semaine
 - Enregistrement des son principals (Bruit Métal , Ballon, pleurs)
 - Apporté un carton pour faire le tôit
