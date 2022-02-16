@@ -107,7 +107,11 @@
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Modélisation en 3D d'un horloge murale.
+- Modélisation en 3D d'un rack à ballons.
+- Aide pour l'installation de la structure du casier.
+- Aide pour l'achat des panneaux de coroplast pour le casier.
+- Aide pour test sonore avec les petits haut-parleurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
