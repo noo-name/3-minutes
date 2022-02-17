@@ -114,7 +114,7 @@
 - Aide pour test sonore avec les haut-parleurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/rack.PNG)
+![ici est une description de l'image](medias/rack.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
