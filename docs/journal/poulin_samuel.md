@@ -103,7 +103,7 @@
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-
+- Tester l'univers sonore.
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
@@ -111,40 +111,34 @@
 - Modélisation en 3D d'un rack à ballons.
 - Aide pour l'installation de la structure du casier.
 - Aide pour l'achat des panneaux de coroplast pour le casier.
-- Aide pour test sonore avec les petits haut-parleurs.
+- Aide pour test sonore avec les haut-parleurs.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/rack.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Les haut-parleurs fonctionnent, mais pas la spatialisation.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Demander de l'aide à  Daryl ou Guillaume si disponible.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
-
+- Faire fonctionner la spatialisation des haut-parleurs.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
