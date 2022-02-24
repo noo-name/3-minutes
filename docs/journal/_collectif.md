@@ -45,6 +45,13 @@ Renforcement de la structure en pvc
 
 ## Semaine 4
 ## Semaine 5
+Installation des 8 hauts-parleurs et test de son
+Branchement des deux lumières
+Détecteur de mouvement
+Unity placement scène final
+Toit du casier installer
+QLC+ gestion des lumières
+Enregistrement son radio et ballon
 ## Semaine 6
 ## Semaine 7
 ## Semaine 8
