@@ -172,12 +172,18 @@ Il n'y a pas vraiment d'écarts nous sommes a jours
 - Enregistrement des son principals (Bruit Métal , Ballon, pleurs)
 - Apporté un carton pour faire le tôit
 - Création de la porte du casier
+
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Branchement lumière casier
+- Branchement des petits speaker
+- Terminer la scène du jeu vr
+- Explication QLC avec Guillaume
+- Enregistrement de la radio et du ballon
 
 ### Image d'une réalisation dont tu es la ou le plus fier
+![image](https://user-images.githubusercontent.com/70386087/155569901-978b7420-bc9d-416a-b044-ab7c7bec3e1d.png)
 
 
 
@@ -189,6 +195,8 @@ Il n'y a pas vraiment d'écarts nous sommes a jours
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
+ La porte pour le casier n'est pas encore nécéssaire donc elle n'a pas été posé encore cependant le toit est installer, le son du ballon est enregistré
+ Tout les haut-parleurs sont installer et fonctionnel, j'ai aussi brancher les lumières élipsoidal au plafond ainsi que tout les cables nécéssaires.
  
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
@@ -208,7 +216,7 @@ Il n'y a pas vraiment d'écarts nous sommes a jours
 
 
 ### Défis pour la prochaine semaine
-
+Avancer le plus possible dans le jeu video , Terminer
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
