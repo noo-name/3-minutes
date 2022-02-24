@@ -47,10 +47,14 @@ Renforcement de la structure en pvc
 ## Semaine 5
 Installation des 8 hauts-parleurs et test de son
 Branchement des deux lumières
+![MicrosoftTeams-image (20)](https://user-images.githubusercontent.com/70386087/155577784-fcf1e89d-e4df-4950-9335-7605235d3317.png)
 Détecteur de mouvement
+![MicrosoftTeams-image (23)](https://user-images.githubusercontent.com/70386087/155578744-aa7956d3-63ee-4cb1-b411-d0e2bea98078.png)
 Unity placement scène final
 Toit du casier installer
 QLC+ gestion des lumières
+![image](https://user-images.githubusercontent.com/70386087/155578840-e1429f2d-4299-4eb0-9008-9623c3006784.png)
+
 Enregistrement son radio et ballon
 ## Semaine 6
 ## Semaine 7
