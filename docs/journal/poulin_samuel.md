@@ -142,7 +142,9 @@ Demander de l'aide à  Daryl ou Guillaume si disponible.
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Faire fonctionner les petits et les gros haut-parleurs.
+- Avancement dans Reaper pour l'ambiance sonore du casier.
+- Aide pour faire fonctionner les lumières.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -150,31 +152,23 @@ Demander de l'aide à  Daryl ou Guillaume si disponible.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Tous les haut-parleurs fonctionnent.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Continuer l'ambiance sonore dans Reaper.
 
 ---
 ## Semaine de rattrapage
