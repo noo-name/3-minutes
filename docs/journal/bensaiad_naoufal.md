@@ -132,21 +132,24 @@ S'avancer le plus possible dans le jeu Vr et programmer le timer de 3 minutes
 ---
 ## Semaine 4
 ### Résumé des réalisations effectuées
-
+- Installation du casier dans le couloir de l'échelle
+- Test sonore avec les grands haut-parleurs
+- Aide pour l'achat des panneaux de coroplast pour le casier
+- Ajout des nouveaux modèls dans la scene Vr
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![MicrosoftTeams-image (19)](https://user-images.githubusercontent.com/70386087/154323412-ceda7e80-0b08-42ae-84eb-fcb2d97f2f35.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ J'ai ajouté les modèles dans la scène Vr mais nous avons priorisé l'installation d'équipement cette semaine
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
@@ -154,7 +157,7 @@ S'avancer le plus possible dans le jeu Vr et programmer le timer de 3 minutes
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
@@ -165,11 +168,14 @@ S'avancer le plus possible dans le jeu Vr et programmer le timer de 3 minutes
 
 
 ### Défis pour la prochaine semaine
-
+Faire fonctionner la spatialisation des grands et petits speakers 
 ---
 ## Semaine 5
 ### Résumé des réalisations effectuées
-
+- Branchement lumière casier
+- Branchement des petits speaker
+- Terminer la scène du jeu vr
+- Achat du ballon pour les enregistrements de sons
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -177,20 +183,20 @@ S'avancer le plus possible dans le jeu Vr et programmer le timer de 3 minutes
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Nous avons réussi à faire fonctionner la spatialisation 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -202,7 +208,7 @@ S'avancer le plus possible dans le jeu Vr et programmer le timer de 3 minutes
 
 
 ### Défis pour la prochaine semaine
-
+S'avancer dans la programmation du jeu Vr et faire un patch max pour le détecteur de présences 
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
