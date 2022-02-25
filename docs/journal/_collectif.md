@@ -48,6 +48,8 @@ Installation du casier et des panneaux de coroplast dans le couloir
 ![MicrosoftTeams-image (19)](https://user-images.githubusercontent.com/70386087/154323412-ceda7e80-0b08-42ae-84eb-fcb2d97f2f35.png)
 Branchement et tests sonores des gros speakers 
 ![MicrosoftTeams-image (12)](https://user-images.githubusercontent.com/70386087/153534553-219546d9-026b-4438-8298-33035ac13367.png)
+
+
 Création de modèles 3d
 ![ici est une description de l'image](medias/rack.png)
 ## Semaine 5
