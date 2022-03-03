@@ -146,10 +146,6 @@ Demander de l'aide à  Daryl ou Guillaume si disponible.
 - Avancement dans Reaper pour l'ambiance sonore du casier.
 - Aide pour faire fonctionner les lumières.
 
-### Image d'une réalisation dont tu es la ou le plus fier
-
-
-
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [x] Complètement
@@ -173,7 +169,11 @@ Tous les haut-parleurs fonctionnent.
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+- Ajouter la programmation du deuxième capteur de présence dans Max 8.
+- Création de l'écran de fin (choix couleur du fond, du texte et typographie)
+- Création d'une liste de crédits pour les sons libres de droits.
+- Ambiance sonore du casier assez avancée.
+- Enregistrement du son de grincements de souliers avec Naoufal.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -181,31 +181,23 @@ Tous les haut-parleurs fonctionnent.
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+L'ambiance sonore est très bien avancée et pourrait même être finale.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Finaliser l'ambiance sonore du casier.
 
 ---
 ## Semaine 6
