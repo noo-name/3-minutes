@@ -220,7 +220,10 @@ Avancer le plus possible dans le jeu video , Terminer
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+-Intégrer menu
+-Crédits menu
+-Intégrer musique menu
+-Installer le deuxième capteur sur le casier
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -229,7 +232,7 @@ Avancer le plus possible dans le jeu video , Terminer
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
