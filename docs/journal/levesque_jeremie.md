@@ -244,7 +244,7 @@ Avancer le plus possible dans le jeu video , Terminer
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -256,7 +256,7 @@ Avancer le plus possible dans le jeu video , Terminer
 
 
 ### Défis pour la prochaine semaine
-
+commencer le max et finaliser le unity
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
