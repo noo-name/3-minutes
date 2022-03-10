@@ -202,39 +202,36 @@ L'ambiance sonore est très bien avancée et pourrait même être finale.
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+- Aide achat de la porte du casier.
+- Aide pour la pose de la porte du casier.
+- Ambiance sonore finale presque terminée.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/reaper_sons.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
 - [ ] Complètement
-- [ ] Assez
+- [x] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ L'ambiance sonore n'est pas tout à fait terminée, mais elle l'est presque. Ce n'est pas la priorité.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Avancer les choses prioritaires avant de continuer l'ambiance sonore.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
-
 ### Défis pour la prochaine semaine
+- Finir l'ambiance sonore du casier.
 
 ---
 ## Semaine 7
