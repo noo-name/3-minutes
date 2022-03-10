@@ -194,6 +194,7 @@ Faire fonctionner la spatialisation des grands et petits speakers
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
+
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
 - [x] Complètement
@@ -212,15 +213,16 @@ S'avancer dans la programmation du jeu Vr et faire un patch max pour le détecte
 ---
 ## Semaine de rattrapage
 ### Résumé des réalisations effectuées
-
+-Intégrer menu dans Unity (règles)
+-Ajouter la musique dans les menus
+-Programmer les interactions avec la radio et le casier
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
-
+![image](https://user-images.githubusercontent.com/70386087/155578840-e1429f2d-4299-4eb0-9008-9623c3006784.png)
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -233,7 +235,7 @@ S'avancer dans la programmation du jeu Vr et faire un patch max pour le détecte
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -245,19 +247,22 @@ S'avancer dans la programmation du jeu Vr et faire un patch max pour le détecte
 
 
 ### Défis pour la prochaine semaine
-
+S'avancer dans la programmation du jeu Vr et faire un patch max pour la lumière et du son
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
-
+-Finaliser les max
+-Enregistrer les insultes 
+-Finir le fade 
+-Finalisation des menus 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image](../journal/medias/Radio-unity.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
@@ -270,7 +275,7 @@ S'avancer dans la programmation du jeu Vr et faire un patch max pour le détecte
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -282,7 +287,7 @@ S'avancer dans la programmation du jeu Vr et faire un patch max pour le détecte
 
 
 ### Défis pour la prochaine semaine
-
+Finir au complet le jeu et le paufiner 
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
