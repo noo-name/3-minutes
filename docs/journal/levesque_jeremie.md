@@ -260,40 +260,47 @@ commencer le max et finaliser le unity
 ---
 ## Semaine 6
 ### Résumé des réalisations effectuées
+- Création des menus et correctif des buggs trouvés.
+- Création de la porte du casier et le frame de la porte.
+- Achat des charnières avec ressord.
+- Installation capteur de présence.
+- Spacialisation son dans unity
 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
+![MicrosoftTeams-image](https://user-images.githubusercontent.com/70386087/157791820-ee63f6bc-edcd-41f4-897a-9abeff5bd6cc.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Les objectifs que nous avons écris ont été réaliser et meme plus nous avons réussi a faire le code max et le finaliser jeudi le 10 mars nous avons reglés tout les buggs trouvés dans le jeu vr et finaliser cette partie la 
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
 
 #### S'il y a des écarts, décrivez-les.
-
+quelques buggs dans le unity ont surgis comme le motion blur lorsqu'ont bougeais la tête que jai réussi a réglé grace a l'aide de l'un de mes collègues de la technique,
+réglages de boutons qui ne fonctionnais pas et capteur de présence capricieux.
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Défis pour la prochaine semaine
-
+Finalisation du projet (son final du) et son dans le jeu final
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
