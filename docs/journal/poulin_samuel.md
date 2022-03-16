@@ -176,7 +176,7 @@ Tous les haut-parleurs fonctionnent.
 - Enregistrement du son de grincements de souliers avec Naoufal.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/moniteur_original.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
@@ -236,37 +236,32 @@ Avancer les choses prioritaires avant de continuer l'ambiance sonore.
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+- Ambiance sonore finalisé.
+- Programmation du pach max du son terminé.
+- Exportation des sons du casier (4 et 4 pour l'intérieur et l'extérieur séparément).
+- Création d'une musique de victoire simple pou le jeu VR.
+- Aide pour brancher le deuxième moniteur.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![ici est une description de l'image](medias/patch_sons_max.png)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
+Tout est finalisé.
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
-
-#### S'il y a des écarts, décrivez-les.
-
-
-#### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
-
 
 ### Défis pour la prochaine semaine
 
