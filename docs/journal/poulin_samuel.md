@@ -243,7 +243,7 @@ Avancer les choses prioritaires avant de continuer l'ambiance sonore.
 - Aide pour brancher le deuxième moniteur.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-![ici est une description de l'image](medias/patch_sons_max.png)
+![ici est une description de l'image](medias/patch_sons_max.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
