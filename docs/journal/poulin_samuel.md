@@ -241,6 +241,7 @@ Avancer les choses prioritaires avant de continuer l'ambiance sonore.
 - Exportation des sons du casier (4 et 4 pour l'intérieur et l'extérieur séparément).
 - Création d'une musique de victoire simple pou le jeu VR.
 - Aide pour brancher le deuxième moniteur.
+- Modification de deux sons dans Reaper pour le jeu VR.
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 ![ici est une description de l'image](medias/patch_sons_max.PNG)
@@ -264,7 +265,8 @@ Tout est finalisé.
 - [ ] Pas tout à fait
 
 ### Défis pour la prochaine semaine
-
+- Présenter le projet.
+- S'assurer que tout fonctionne.
 
 ## Semaine 8
 
