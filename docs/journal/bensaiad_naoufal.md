@@ -295,7 +295,7 @@ Finir au complet le jeu et le paufiner
 -Finir le jeu 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
-
+![Image](../journal/medias/jeu-game.PNG)
 
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
