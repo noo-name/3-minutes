@@ -305,7 +305,7 @@ Finalisation du projet (son final du) et son dans le jeu final
 ## Semaine 7
 ### Résumé des réalisations effectuées
 
-
+Finalisation du projet jeu vr (menu disposition et objets scène) déplacement capteur de mouvement pour mieux capté et test effectuer
 ### Image d'une réalisation dont tu es la ou le plus fier
 
 
