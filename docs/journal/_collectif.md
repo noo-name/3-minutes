@@ -68,6 +68,7 @@ Branchement moniteur et test de fonctionalité
 ## Semaine 6
 -Finaliser les max 
 -Enregistrer les insultes 
+
 -Finir le fade 
 
 ![image](https://user-images.githubusercontent.com/70386087/155578840-e1429f2d-4299-4eb0-9008-9623c3006784.png)
