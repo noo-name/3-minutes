@@ -291,7 +291,8 @@ Finir au complet le jeu et le paufiner
 ---
 ## Semaine 7
 ### Résumé des réalisations effectuées
-
+-Finir la programmation du jeu
+-Finir le jeu 
 
 ### Image d'une réalisation dont tu es la ou le plus fier
 
@@ -299,20 +300,20 @@ Finir au complet le jeu et le paufiner
 
 ### Est-ce que j'ai accompli l'ensemble des tâches et objectifs que je m'étais fixés pour cette semaine?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Peu
 - [ ] Pas du tout
 
 #### Décrivez pourquoi.
- 
+ Fini le jeu
 
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
 ### Mon projet s'est-il réalisé selon l’échéancier prévu?
 
-- [ ] Complètement
+- [x] Complètement
 - [ ] Assez
 - [ ] Un peu
 - [ ] Pas tout à fait
@@ -329,4 +330,4 @@ Finir au complet le jeu et le paufiner
 ## Semaine 8
 
 
-## Semaine 9
+
