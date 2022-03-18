@@ -6,7 +6,7 @@ Tout d’abord, comme prévu, nous avons commencé nos journaux individuels. Pui
 
 Samuel a trouvé des inspirations pour la musique du jeu VR et a commencé à explorer le site Internet BeepBox. Ce dernier permet de créer de la musique facilement et sans logiciel supplémentaire. Très pratique pour un débutant! Samuel est maintenant en train de créer cette musique dans BeepBox.
 
-Naoufal a commencé la proggrammation du timer de 3 minutes du jeu. On a brainstorm pour trouver plus de modèles 3d. Apres le brainstorm nous avons choisis que nous allons créer un panier de basketball, des mains pour l'utilisateur et poubelle. 
+Naoufal a commencé la proggrammation du timer de 3 minutes du jeu. On a brainstorm pour trouver plus de modèles 3d. Apres le brainstorm nous avons choisis que nous allons créer un panier de basketball, une radio, un rack et une porte de gymnase. 
 
 ## Semaine 2
 -Achat de matériaux pour la structure du casier
