@@ -324,10 +324,5 @@ Finir au complet le jeu et le paufiner
 #### S'il y a lieu, qu'allez-vous faire pour remédier à la situation?
 
 
-### Défis pour la prochaine semaine
-
-
-## Semaine 8
-
 
 
