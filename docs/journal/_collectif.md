@@ -81,7 +81,7 @@ Branchement moniteur et test de fonctionalité
 ## Semaine 7
 Finalisation du projet autant dans l'audio que dans le jeu vr.
 création menu, score, cible et nice to have 
-## Semaine 8
+
 
 
 
