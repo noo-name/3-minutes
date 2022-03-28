@@ -268,7 +268,3 @@ Tout est finalisé.
 - Présenter le projet.
 - S'assurer que tout fonctionne.
 
-## Semaine 8
-
-
-## Semaine 9
