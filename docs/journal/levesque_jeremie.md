@@ -339,7 +339,4 @@ Finalisation du projet jeu vr (menu disposition et objets scène) déplacement c
 ### Défis pour la prochaine semaine
 
 
-## Semaine 8
 
-
-## Semaine 9
